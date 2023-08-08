@@ -1,0 +1,58 @@
+body{
+    text-align: center;
+    margin-top: 100px;
+   background-image: url(bg6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+h1{
+    color: white;
+}
+table{
+    margin-left: 650px;
+    margin-top: 20px;
+    background-color:white;
+    
+}
+table td{
+    background-color:black;
+    background-size: 100px;
+
+}
+.hii{
+    height:50px;
+    width:50px;
+    background-color:rgb(155, 216, 94);
+   
+
+font-size: 20px;
+}
+table{
+    margin-left: 90px;
+    margin-top: 70px;
+}
+.hello{
+    height: 50px;
+    width: 300px;
+    background-color:aquamarine;
+    
+}
+.hii:hover{
+    height:60px;
+    width:60px;
+    background-color:crimson;
+    border-radius: 40px;
+    border-color: black;
+}
+.calculator {
+    height: 400px;
+    width: 400px; /* Adjust the width as needed */
+    padding: 20px; /* Add some padding inside the container */
+    border: 2px solid #ccc; /* Add a border */
+    border-radius: 15px; /* Round the corners */
+    background-color:mediumpurple; /* Set a background color */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+    margin: 0 auto; /* Center the container horizontally */
+  }
+
